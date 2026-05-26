@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Dewangga Abdullah 👋</h1>
 
 <p align="center">
+  <img src="walpaper-github.png" alt="Dewangga's Tech Desk" width="100%">
+</p>
+
+<p align="center">
   <strong>High School Student | Backend Developer Focused</strong>
 </p>
 
